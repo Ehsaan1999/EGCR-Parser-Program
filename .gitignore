@@ -1,0 +1,12 @@
+*/__pycache__/
+/__pycache__/
+/test_files/legal docs
+/test_files/archive
+.env
+/venv
+/temp/
+/reports/
+/build/
+/dist/
+/test_files/
+file_stager_tk.spec
